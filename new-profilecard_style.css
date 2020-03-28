@@ -1,0 +1,58 @@
+body,html{height:100%;}
+body{
+  font-weight: lighter;
+  background: url(workshop.png);
+  width:cover;
+  height:cover;
+  background-color: #cccccc;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+.editprofilecard{
+  border: 00000;
+  border-radius: 20px;
+  padding: inherit;
+  width: 350px;
+  height: 450px;
+  padding: 5px;
+  margin:0 auto;
+  background-color: #d9d9d9;
+  border-color: black;
+  font-weight:lighter;
+}
+.inp{
+  padding: 10px 30px;
+  margin:5px;
+  border: 00000;
+  border-color: #000000;
+  color: black;
+  border-radius: 90px;
+  font-style: 15px;
+  text-decoration: none;
+  font-weight: lighter;
+  transition: all .3s ease-in;
+}
+.btn{
+  padding: 10px 30px;
+  margin:5px;
+  border: 00000;
+  border-color: #000000;
+  color: black;
+  border-radius: 90px;
+  font-style: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: all .3s ease-in;
+}
+.btn:hover{
+  border: 000000;
+  border-color: blue;
+}
+form{
+  padding: 10px
+  font-family:sans-serif;
+
+  margin: 10px
+}
+

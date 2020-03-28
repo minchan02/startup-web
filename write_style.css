@@ -1,0 +1,71 @@
+
+body{
+	background-image:url("write.png");
+	width:cover;
+	height:cover;
+	
+}
+
+li{
+	text-align:left;
+}
+input{
+  padding: 10px 18px;
+  /*background: #7F00FF;*/
+  border:#000000;
+  border-color: #000000;
+  color: black;
+  border-radius: 30px;
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  width : 400px;
+}
+textarea{
+	padding: 10px 18px;
+  /*background: #7F00FF;*/
+  border:#000000;
+  border-color: #000000;
+  color: black;
+  
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: bold;
+  width:600px;
+  height:300px;
+
+}
+.content{
+	background-color :#d9d9d9;
+	width : 700px;
+	height: 550px;
+	border-radius:10px;
+	transform:translate(0%,35%);
+}
+h1{
+	background-color:#00d0ff;
+	color:white;
+}
+button{
+  padding: 10px 18px;
+  background: #7F00FF;
+  border:#000000;
+  border-color: #000000;
+	
+  color: white;
+  border-radius: 30px;
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+input[type = "file"]{
+  padding: 10px 18px;
+  /*background: #7F00FF;*/
+  border:#000000;
+  border-color: #000000;
+  color: black;
+  border-radius: 30px;
+  font-size: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
